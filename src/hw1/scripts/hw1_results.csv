@@ -1,0 +1,501 @@
+Dimension, Obstacles, Seed, Algorithm, Time, Nodes Expanded, Plan Length, Error, Plan
+4, 0, 0, bfs, 1.20, 94, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 0, ucs, 0.75, 83, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 0, gbfs, 0.11, 10, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 0, astar, 0.53, 59, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 0, custom-astar, 0.67, 74, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 3735929054, bfs, 0.85, 94, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 3735929054, ucs, 0.75, 83, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 3735929054, gbfs, 0.10, 10, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 3735929054, astar, 0.78, 59, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 3735929054, custom-astar, 0.77, 74, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 195936478, bfs, 1.09, 94, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 195936478, ucs, 0.86, 83, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 195936478, gbfs, 0.11, 10, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 195936478, astar, 0.56, 59, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 195936478, custom-astar, 0.67, 74, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 20493, bfs, 0.86, 94, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 20493, ucs, 0.78, 83, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 20493, gbfs, 0.11, 10, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 20493, astar, 0.59, 59, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 20493, custom-astar, 0.91, 74, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 2881141419, bfs, 1.03, 94, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 2881141419, ucs, 0.88, 83, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 2881141419, gbfs, 0.12, 10, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 2881141419, astar, 0.63, 59, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 0, 2881141419, custom-astar, 0.72, 74, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 0, bfs, 0.91, 91, 10, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 4, 0, ucs, 0.79, 83, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 4, 0, gbfs, 0.15, 15, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 4, 0, astar, 0.63, 68, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 4, 0, custom-astar, 0.71, 76, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 4, 3735929054, bfs, 1.07, 91, 10, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+4, 4, 3735929054, ucs, 0.68, 74, 10, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+4, 4, 3735929054, gbfs, 0.11, 11, 10, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+4, 4, 3735929054, astar, 0.47, 50, 10, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+4, 4, 3735929054, custom-astar, 0.65, 61, 10, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+4, 4, 195936478, bfs, 0.92, 92, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 195936478, ucs, 0.85, 78, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 195936478, gbfs, 0.15, 10, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 195936478, astar, 0.59, 53, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 195936478, custom-astar, 0.79, 68, 9, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 20493, bfs, 1.07, 93, 10, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+4, 4, 20493, ucs, 0.97, 84, 10, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 4, 20493, gbfs, 0.23, 19, 10, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 4, 20493, astar, 0.92, 71, 10, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 4, 20493, custom-astar, 0.97, 81, 10, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 4, 2881141419, bfs, 1.01, 92, 11, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+4, 4, 2881141419, ucs, 0.87, 89, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 4, 2881141419, gbfs, 0.21, 17, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 4, 2881141419, astar, 0.79, 81, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 4, 2881141419, custom-astar, 0.98, 84, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 8, 0, bfs, 0.87, 80, 10, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 8, 0, ucs, 0.90, 72, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 8, 0, gbfs, 0.13, 11, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 8, 0, astar, 0.55, 55, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 8, 0, custom-astar, 0.58, 64, 10, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 8, 3735929054, bfs, 0.88, 94, 11, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 3735929054, ucs, 0.86, 88, 11, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 3735929054, gbfs, 0.35, 33, 17, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 3735929054, astar, 0.71, 74, 11, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 3735929054, custom-astar, 0.87, 80, 11, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 195936478, bfs, 0.78, 83, 12, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF
+4, 8, 195936478, ucs, 0.76, 80, 12, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF
+4, 8, 195936478, gbfs, 0.25, 26, 12, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF
+4, 8, 195936478, astar, 0.72, 79, 12, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF
+4, 8, 195936478, custom-astar, 0.78, 80, 12, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF
+4, 8, 20493, bfs, 1.07, 95, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 8, 20493, ucs, 0.88, 92, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 8, 20493, gbfs, 0.26, 28, 13, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 8, 20493, astar, 0.77, 83, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 8, 20493, custom-astar, 0.78, 88, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 8, 2881141419, bfs, 0.81, 89, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 2881141419, ucs, 0.73, 81, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 2881141419, gbfs, 0.23, 25, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 2881141419, astar, 0.66, 73, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 8, 2881141419, custom-astar, 0.69, 77, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 12, 0, bfs, 0.69, 76, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 12, 0, ucs, 0.66, 73, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 12, 0, gbfs, 0.26, 28, 14, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 12, 0, astar, 0.54, 60, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 12, 0, custom-astar, 0.61, 67, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 12, 3735929054, bfs, 0.84, 92, 0, None, 
+4, 12, 3735929054, ucs, 0.83, 92, 0, None, 
+4, 12, 3735929054, gbfs, 0.83, 92, 0, None, 
+4, 12, 3735929054, astar, 0.82, 92, 0, None, 
+4, 12, 3735929054, custom-astar, 0.81, 92, 0, None, 
+4, 12, 195936478, bfs, 0.74, 83, 13, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 195936478, ucs, 0.73, 80, 13, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 195936478, gbfs, 0.33, 36, 13, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 195936478, astar, 0.69, 76, 13, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 195936478, custom-astar, 0.71, 79, 13, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 20493, bfs, 0.77, 85, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 20493, ucs, 0.69, 77, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 20493, gbfs, 0.30, 32, 13, None, MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 12, 20493, astar, 0.59, 65, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 20493, custom-astar, 0.65, 72, 11, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+4, 12, 2881141419, bfs, 0.79, 89, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 12, 2881141419, ucs, 0.72, 81, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 12, 2881141419, gbfs, 0.23, 25, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 12, 2881141419, astar, 0.66, 73, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 12, 2881141419, custom-astar, 0.69, 77, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 16, 0, bfs, 0.62, 68, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 16, 0, ucs, 0.58, 63, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 16, 0, gbfs, 0.27, 29, 16, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 16, 0, astar, 0.45, 49, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 16, 0, custom-astar, 0.50, 56, 12, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+4, 16, 3735929054, bfs, 0.73, 80, 0, None, 
+4, 16, 3735929054, ucs, 0.70, 80, 0, None, 
+4, 16, 3735929054, gbfs, 0.71, 80, 0, None, 
+4, 16, 3735929054, astar, 0.71, 80, 0, None, 
+4, 16, 3735929054, custom-astar, 0.70, 80, 0, None, 
+4, 16, 195936478, bfs, 0.42, 44, 0, None, 
+4, 16, 195936478, ucs, 0.40, 44, 0, None, 
+4, 16, 195936478, gbfs, 0.40, 44, 0, None, 
+4, 16, 195936478, astar, 0.39, 44, 0, None, 
+4, 16, 195936478, custom-astar, 0.41, 44, 0, None, 
+4, 16, 20493, bfs, 0.84, 92, 19, None, TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 16, 20493, ucs, 0.82, 91, 19, None, TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 16, 20493, gbfs, 0.72, 80, 19, None, TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 16, 20493, astar, 0.81, 91, 19, None, TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 16, 20493, custom-astar, 0.81, 91, 19, None, TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+4, 16, 2881141419, bfs, 0.56, 61, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 16, 2881141419, ucs, 0.49, 53, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 16, 2881141419, gbfs, 0.13, 13, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 16, 2881141419, astar, 0.41, 45, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+4, 16, 2881141419, custom-astar, 0.46, 49, 11, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 0, 0, bfs, 2.85, 318, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 0, ucs, 2.74, 307, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 0, gbfs, 0.17, 18, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 0, astar, 2.36, 267, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 0, custom-astar, 2.57, 292, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 3735929054, bfs, 2.86, 318, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 3735929054, ucs, 2.71, 307, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 3735929054, gbfs, 0.17, 18, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 3735929054, astar, 2.37, 267, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 3735929054, custom-astar, 2.59, 292, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 195936478, bfs, 2.84, 318, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 195936478, ucs, 2.72, 307, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 195936478, gbfs, 0.17, 18, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 195936478, astar, 2.35, 267, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 195936478, custom-astar, 2.58, 292, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 20493, bfs, 2.85, 318, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 20493, ucs, 2.71, 307, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 20493, gbfs, 0.18, 18, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 20493, astar, 2.36, 267, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 20493, custom-astar, 2.58, 292, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 2881141419, bfs, 2.83, 318, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 2881141419, ucs, 2.72, 307, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 2881141419, gbfs, 0.17, 18, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 2881141419, astar, 2.38, 267, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 0, 2881141419, custom-astar, 2.60, 292, 17, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 14, 0, bfs, 2.81, 316, 18, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 14, 0, ucs, 2.70, 303, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 0, gbfs, 0.22, 23, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 0, astar, 2.21, 247, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 0, custom-astar, 2.43, 273, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 3735929054, bfs, 2.84, 316, 19, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 14, 3735929054, ucs, 2.79, 309, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 14, 3735929054, gbfs, 0.29, 32, 24, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF
+8, 14, 3735929054, astar, 2.57, 284, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 14, 3735929054, custom-astar, 2.70, 301, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 14, 195936478, bfs, 2.84, 317, 18, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 14, 195936478, ucs, 2.71, 303, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 195936478, gbfs, 0.18, 19, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 195936478, astar, 2.28, 254, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 195936478, custom-astar, 2.51, 278, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 14, 20493, bfs, 2.92, 320, 20, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+8, 14, 20493, ucs, 2.90, 319, 20, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 14, 20493, gbfs, 0.32, 35, 24, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF
+8, 14, 20493, astar, 2.87, 316, 20, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 14, 20493, custom-astar, 2.88, 318, 20, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 14, 2881141419, bfs, 2.88, 316, 19, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 14, 2881141419, ucs, 2.78, 310, 19, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 14, 2881141419, gbfs, 0.33, 35, 25, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 14, 2881141419, astar, 2.66, 292, 19, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 14, 2881141419, custom-astar, 2.71, 301, 19, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 0, bfs, 2.85, 310, 18, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+8, 28, 0, ucs, 2.53, 279, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 28, 0, gbfs, 0.23, 23, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 28, 0, astar, 1.80, 200, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 28, 0, custom-astar, 2.15, 236, 18, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+8, 28, 3735929054, bfs, 2.92, 316, 21, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+8, 28, 3735929054, ucs, 2.84, 310, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 3735929054, gbfs, 0.33, 34, 26, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF
+8, 28, 3735929054, astar, 2.57, 284, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 3735929054, custom-astar, 2.88, 297, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 195936478, bfs, 2.98, 314, 19, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 28, 195936478, ucs, 2.82, 311, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 28, 195936478, gbfs, 0.22, 24, 21, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 28, 195936478, astar, 2.57, 284, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 28, 195936478, custom-astar, 2.64, 294, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 28, 20493, bfs, 2.84, 315, 20, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+8, 28, 20493, ucs, 2.83, 310, 20, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+8, 28, 20493, gbfs, 0.37, 40, 24, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 28, 20493, astar, 2.49, 274, 20, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+8, 28, 20493, custom-astar, 2.68, 295, 20, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+8, 28, 2881141419, bfs, 2.89, 318, 21, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 2881141419, ucs, 2.83, 315, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 2881141419, gbfs, 0.54, 57, 29, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 2881141419, astar, 2.64, 293, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 28, 2881141419, custom-astar, 2.75, 302, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 43, 0, bfs, 2.73, 302, 21, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 43, 0, ucs, 2.64, 291, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 43, 0, gbfs, 0.35, 36, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 43, 0, astar, 2.17, 241, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 43, 0, custom-astar, 2.30, 258, 21, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 43, 3735929054, bfs, 2.73, 300, 24, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 43, 3735929054, ucs, 2.69, 299, 24, None, MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 43, 3735929054, gbfs, 0.54, 62, 35, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 43, 3735929054, astar, 2.58, 288, 24, None, MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 43, 3735929054, custom-astar, 2.64, 294, 24, None, MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 43, 195936478, bfs, 2.70, 296, 19, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 43, 195936478, ucs, 2.52, 281, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 43, 195936478, gbfs, 0.26, 27, 23, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 43, 195936478, astar, 2.21, 242, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 43, 195936478, custom-astar, 2.39, 260, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+8, 43, 20493, bfs, 2.74, 301, 22, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 43, 20493, ucs, 2.73, 302, 22, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 43, 20493, gbfs, 0.39, 43, 26, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+8, 43, 20493, astar, 2.42, 267, 22, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 43, 20493, custom-astar, 2.52, 278, 22, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+8, 43, 2881141419, bfs, 2.70, 294, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 43, 2881141419, ucs, 2.62, 291, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 43, 2881141419, gbfs, 0.49, 54, 25, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 43, 2881141419, astar, 2.34, 256, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 43, 2881141419, custom-astar, 2.43, 269, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF
+8, 57, 0, bfs, 2.61, 288, 0, None, 
+8, 57, 0, ucs, 2.58, 288, 0, None, 
+8, 57, 0, gbfs, 2.59, 288, 0, None, 
+8, 57, 0, astar, 2.60, 288, 0, None, 
+8, 57, 0, custom-astar, 2.58, 288, 0, None, 
+8, 57, 3735929054, bfs, 2.05, 227, 30, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 57, 3735929054, ucs, 1.92, 215, 30, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 57, 3735929054, gbfs, 1.01, 110, 42, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 57, 3735929054, astar, 1.76, 198, 30, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 57, 3735929054, custom-astar, 1.87, 207, 30, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+8, 57, 195936478, bfs, 2.15, 236, 19, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 57, 195936478, ucs, 2.02, 225, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 57, 195936478, gbfs, 1.13, 124, 25, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 57, 195936478, astar, 1.76, 198, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 57, 195936478, custom-astar, 1.89, 208, 19, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+8, 57, 20493, bfs, 2.44, 268, 0, None, 
+8, 57, 20493, ucs, 2.43, 268, 0, None, 
+8, 57, 20493, gbfs, 2.45, 268, 0, None, 
+8, 57, 20493, astar, 2.39, 268, 0, None, 
+8, 57, 20493, custom-astar, 2.41, 268, 0, None, 
+8, 57, 2881141419, bfs, 2.39, 262, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 57, 2881141419, ucs, 2.54, 260, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 57, 2881141419, gbfs, 1.19, 110, 33, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 57, 2881141419, astar, 2.29, 212, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+8, 57, 2881141419, custom-astar, 2.50, 227, 21, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+12, 0, 0, bfs, 6.15, 670, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 0, ucs, 5.87, 659, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 0, gbfs, 0.24, 26, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 0, astar, 5.51, 619, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 0, custom-astar, 5.80, 644, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 3735929054, bfs, 6.01, 670, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 3735929054, ucs, 5.88, 659, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 3735929054, gbfs, 0.29, 26, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 3735929054, astar, 6.47, 619, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 3735929054, custom-astar, 6.98, 644, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 195936478, bfs, 6.50, 670, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 195936478, ucs, 5.87, 659, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 195936478, gbfs, 0.25, 26, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 195936478, astar, 5.47, 619, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 195936478, custom-astar, 5.72, 644, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 20493, bfs, 5.98, 670, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 20493, ucs, 5.87, 659, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 20493, gbfs, 0.25, 26, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 20493, astar, 5.50, 619, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 20493, custom-astar, 5.72, 644, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 2881141419, bfs, 6.02, 670, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 2881141419, ucs, 5.87, 659, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 2881141419, gbfs, 0.24, 26, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 2881141419, astar, 5.50, 619, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 0, 2881141419, custom-astar, 5.73, 644, 25, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 0, bfs, 6.01, 668, 26, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 0, ucs, 5.86, 659, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 0, gbfs, 0.28, 29, 27, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 0, astar, 5.53, 624, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 0, custom-astar, 5.69, 644, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 3735929054, bfs, 5.95, 670, 27, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 31, 3735929054, ucs, 5.85, 660, 27, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 31, 3735929054, gbfs, 0.37, 40, 32, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+12, 31, 3735929054, astar, 5.51, 623, 27, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 31, 3735929054, custom-astar, 5.70, 642, 27, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 31, 195936478, bfs, 5.93, 667, 26, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 195936478, ucs, 5.84, 658, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 31, 195936478, gbfs, 0.29, 31, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 31, 195936478, astar, 5.48, 620, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 31, 195936478, custom-astar, 5.69, 640, 26, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 31, 20493, bfs, 5.91, 667, 26, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 20493, ucs, 5.69, 644, 26, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 20493, gbfs, 0.40, 43, 31, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 20493, astar, 4.72, 535, 26, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 20493, custom-astar, 5.17, 588, 26, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 2881141419, bfs, 5.93, 665, 27, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 2881141419, ucs, 5.85, 663, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 31, 2881141419, gbfs, 0.38, 41, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 31, 2881141419, astar, 5.64, 637, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 31, 2881141419, custom-astar, 5.69, 649, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 62, 0, bfs, 5.88, 662, 27, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 0, ucs, 5.70, 648, 27, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+12, 62, 0, gbfs, 0.32, 35, 31, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 0, astar, 5.08, 579, 27, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+12, 62, 0, custom-astar, 5.32, 606, 27, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF
+12, 62, 3735929054, bfs, 5.83, 661, 28, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 3735929054, ucs, 5.51, 628, 28, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 3735929054, gbfs, 0.52, 58, 38, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF
+12, 62, 3735929054, astar, 4.17, 475, 28, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 3735929054, custom-astar, 4.59, 521, 28, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 195936478, bfs, 6.21, 665, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 195936478, ucs, 5.83, 661, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 62, 195936478, gbfs, 0.30, 33, 27, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 62, 195936478, astar, 5.14, 589, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 62, 195936478, custom-astar, 5.44, 620, 27, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 62, 20493, bfs, 5.85, 663, 28, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+12, 62, 20493, ucs, 5.65, 638, 28, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+12, 62, 20493, gbfs, 0.34, 38, 28, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+12, 62, 20493, astar, 4.20, 481, 28, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+12, 62, 20493, custom-astar, 4.68, 536, 28, None, TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+12, 62, 2881141419, bfs, 5.82, 660, 28, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 62, 2881141419, ucs, 5.73, 653, 28, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 62, 2881141419, gbfs, 0.46, 51, 38, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF
+12, 62, 2881141419, astar, 5.37, 612, 28, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 62, 2881141419, custom-astar, 5.50, 625, 28, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 93, 0, bfs, 5.70, 647, 29, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 93, 0, ucs, 5.49, 619, 29, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 93, 0, gbfs, 0.38, 43, 31, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 93, 0, astar, 4.74, 536, 29, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 93, 0, custom-astar, 5.01, 567, 29, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF
+12, 93, 3735929054, bfs, 5.87, 657, 32, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF
+12, 93, 3735929054, ucs, 5.83, 657, 32, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF
+12, 93, 3735929054, gbfs, 0.80, 89, 46, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF
+12, 93, 3735929054, astar, 5.57, 623, 32, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF
+12, 93, 3735929054, custom-astar, 5.62, 632, 32, None, MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF
+12, 93, 195936478, bfs, 5.19, 580, 29, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 93, 195936478, ucs, 5.19, 577, 29, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 93, 195936478, gbfs, 0.83, 94, 45, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 93, 195936478, astar, 4.32, 483, 29, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 93, 195936478, custom-astar, 4.60, 515, 29, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF
+12, 93, 20493, bfs, 5.94, 664, 0, None, 
+12, 93, 20493, ucs, 5.94, 664, 0, None, 
+12, 93, 20493, gbfs, 5.90, 664, 0, None, 
+12, 93, 20493, astar, 5.92, 664, 0, None, 
+12, 93, 20493, custom-astar, 5.93, 664, 0, None, 
+12, 93, 2881141419, bfs, 5.73, 635, 30, None, TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF
+12, 93, 2881141419, ucs, 5.68, 632, 30, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+12, 93, 2881141419, gbfs, 0.64, 69, 48, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF
+12, 93, 2881141419, astar, 5.22, 577, 30, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+12, 93, 2881141419, custom-astar, 5.36, 598, 30, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+12, 124, 0, bfs, 4.63, 510, 31, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 124, 0, ucs, 4.39, 489, 31, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 124, 0, gbfs, 0.73, 79, 39, None, MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 124, 0, astar, 3.94, 438, 31, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 124, 0, custom-astar, 4.15, 461, 31, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+12, 124, 3735929054, bfs, 5.54, 608, 0, None, 
+12, 124, 3735929054, ucs, 5.48, 608, 0, None, 
+12, 124, 3735929054, gbfs, 5.45, 608, 0, None, 
+12, 124, 3735929054, astar, 5.47, 608, 0, None, 
+12, 124, 3735929054, custom-astar, 5.44, 608, 0, None, 
+12, 124, 195936478, bfs, 5.17, 569, 37, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF
+12, 124, 195936478, ucs, 5.05, 564, 37, None, MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+12, 124, 195936478, gbfs, 0.59, 63, 37, None, MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+12, 124, 195936478, astar, 4.50, 499, 37, None, MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+12, 124, 195936478, custom-astar, 4.64, 522, 37, None, MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+12, 124, 20493, bfs, 5.74, 632, 0, None, 
+12, 124, 20493, ucs, 5.69, 632, 0, None, 
+12, 124, 20493, gbfs, 5.64, 632, 0, None, 
+12, 124, 20493, astar, 5.65, 632, 0, None, 
+12, 124, 20493, custom-astar, 5.63, 632, 0, None, 
+12, 124, 2881141419, bfs, 5.29, 592, 0, None, 
+12, 124, 2881141419, ucs, 5.29, 592, 0, None, 
+12, 124, 2881141419, gbfs, 5.26, 592, 0, None, 
+12, 124, 2881141419, astar, 5.33, 592, 0, None, 
+12, 124, 2881141419, custom-astar, 5.32, 592, 0, None, 
+16, 0, 0, bfs, 10.32, 1150, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 0, ucs, 10.23, 1139, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 0, gbfs, 0.33, 34, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 0, astar, 9.77, 1099, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 0, custom-astar, 9.98, 1124, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 3735929054, bfs, 10.30, 1150, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 3735929054, ucs, 10.14, 1139, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 3735929054, gbfs, 0.31, 34, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 3735929054, astar, 9.77, 1099, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 3735929054, custom-astar, 10.39, 1124, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 195936478, bfs, 15.63, 1150, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 195936478, ucs, 16.02, 1139, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 195936478, gbfs, 0.63, 34, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 195936478, astar, 21.00, 1099, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 195936478, custom-astar, 16.20, 1124, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 20493, bfs, 21.22, 1150, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 20493, ucs, 18.40, 1139, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 20493, gbfs, 0.55, 34, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 20493, astar, 17.41, 1099, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 20493, custom-astar, 18.86, 1124, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 2881141419, bfs, 20.52, 1150, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 2881141419, ucs, 23.32, 1139, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 2881141419, gbfs, 0.78, 34, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 2881141419, astar, 22.60, 1099, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 0, 2881141419, custom-astar, 22.86, 1124, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 0, bfs, 22.62, 1147, 36, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 54, 0, ucs, 22.23, 1144, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 54, 0, gbfs, 1.11, 58, 44, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF
+16, 54, 0, astar, 22.72, 1133, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 54, 0, custom-astar, 22.24, 1142, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 54, 3735929054, bfs, 10.54, 1144, 36, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 3735929054, ucs, 10.22, 1142, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+16, 54, 3735929054, gbfs, 0.38, 41, 38, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+16, 54, 3735929054, astar, 10.13, 1126, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+16, 54, 3735929054, custom-astar, 10.21, 1136, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF
+16, 54, 195936478, bfs, 10.43, 1146, 34, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 195936478, ucs, 10.13, 1116, 34, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 195936478, gbfs, 0.35, 37, 35, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 195936478, astar, 9.22, 1022, 34, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 195936478, custom-astar, 9.74, 1074, 34, None, MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 20493, bfs, 10.50, 1146, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 20493, ucs, 10.10, 1111, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 20493, gbfs, 0.33, 34, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 20493, astar, 9.39, 1030, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 20493, custom-astar, 9.84, 1075, 33, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 2881141419, bfs, 10.57, 1151, 35, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 54, 2881141419, ucs, 10.50, 1146, 35, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+16, 54, 2881141419, gbfs, 0.46, 49, 41, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF
+16, 54, 2881141419, astar, 10.48, 1132, 35, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+16, 54, 2881141419, custom-astar, 10.42, 1143, 35, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+16, 108, 0, bfs, 10.55, 1143, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 0, ucs, 10.67, 1134, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 0, gbfs, 1.45, 95, 52, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF
+16, 108, 0, astar, 9.58, 1029, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 0, custom-astar, 9.73, 1075, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 3735929054, bfs, 10.26, 1134, 36, None, MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+16, 108, 3735929054, ucs, 9.94, 1108, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+16, 108, 3735929054, gbfs, 0.54, 60, 42, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF_MoveF
+16, 108, 3735929054, astar, 9.52, 1058, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+16, 108, 3735929054, custom-astar, 9.75, 1082, 36, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF
+16, 108, 195936478, bfs, 10.36, 1151, 40, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 195936478, ucs, 10.27, 1149, 40, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 195936478, gbfs, 0.80, 86, 50, None, MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF
+16, 108, 195936478, astar, 10.33, 1147, 40, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 195936478, custom-astar, 10.29, 1148, 40, None, TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 108, 20493, bfs, 10.28, 1139, 36, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 108, 20493, ucs, 9.90, 1106, 36, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 108, 20493, gbfs, 0.48, 51, 42, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+16, 108, 20493, astar, 9.32, 1039, 36, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 108, 20493, custom-astar, 9.53, 1063, 36, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 108, 2881141419, bfs, 10.16, 1128, 37, None, TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF
+16, 108, 2881141419, ucs, 10.07, 1127, 37, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+16, 108, 2881141419, gbfs, 0.53, 57, 43, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCCW_MoveF
+16, 108, 2881141419, astar, 9.85, 1106, 37, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+16, 108, 2881141419, custom-astar, 9.97, 1117, 37, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF
+16, 163, 0, bfs, 10.08, 1123, 38, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 163, 0, ucs, 9.71, 1088, 38, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 163, 0, gbfs, 1.85, 209, 56, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_TurnCW_MoveF_MoveF
+16, 163, 0, astar, 8.23, 924, 38, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 163, 0, custom-astar, 8.75, 981, 38, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF
+16, 163, 3735929054, bfs, 10.14, 1136, 0, None, 
+16, 163, 3735929054, ucs, 10.14, 1136, 0, None, 
+16, 163, 3735929054, gbfs, 10.23, 1136, 0, None, 
+16, 163, 3735929054, astar, 10.11, 1136, 0, None, 
+16, 163, 3735929054, custom-astar, 10.20, 1136, 0, None, 
+16, 163, 195936478, bfs, 9.98, 1120, 0, None, 
+16, 163, 195936478, ucs, 9.92, 1120, 0, None, 
+16, 163, 195936478, gbfs, 9.99, 1120, 0, None, 
+16, 163, 195936478, astar, 10.07, 1120, 0, None, 
+16, 163, 195936478, custom-astar, 9.99, 1120, 0, None, 
+16, 163, 20493, bfs, 10.08, 1133, 40, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+16, 163, 20493, ucs, 9.70, 1091, 40, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 163, 20493, gbfs, 0.47, 51, 42, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+16, 163, 20493, astar, 8.94, 1007, 40, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF
+16, 163, 20493, custom-astar, 9.54, 1077, 40, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF
+16, 163, 2881141419, bfs, 9.96, 1116, 0, None, 
+16, 163, 2881141419, ucs, 9.92, 1116, 0, None, 
+16, 163, 2881141419, gbfs, 9.90, 1116, 0, None, 
+16, 163, 2881141419, astar, 9.82, 1116, 0, None, 
+16, 163, 2881141419, custom-astar, 9.88, 1116, 0, None, 
+16, 217, 0, bfs, 9.39, 1056, 0, None, 
+16, 217, 0, ucs, 9.34, 1056, 0, None, 
+16, 217, 0, gbfs, 9.32, 1056, 0, None, 
+16, 217, 0, astar, 9.31, 1056, 0, None, 
+16, 217, 0, custom-astar, 9.30, 1056, 0, None, 
+16, 217, 3735929054, bfs, 8.53, 964, 0, None, 
+16, 217, 3735929054, ucs, 8.51, 964, 0, None, 
+16, 217, 3735929054, gbfs, 8.54, 964, 0, None, 
+16, 217, 3735929054, astar, 8.63, 964, 0, None, 
+16, 217, 3735929054, custom-astar, 8.54, 964, 0, None, 
+16, 217, 195936478, bfs, 0.23, 24, 0, None, 
+16, 217, 195936478, ucs, 0.23, 24, 0, None, 
+16, 217, 195936478, gbfs, 0.22, 24, 0, None, 
+16, 217, 195936478, astar, 0.22, 24, 0, None, 
+16, 217, 195936478, custom-astar, 0.22, 24, 0, None, 
+16, 217, 20493, bfs, 7.27, 811, 42, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF
+16, 217, 20493, ucs, 7.46, 833, 42, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+16, 217, 20493, gbfs, 0.56, 61, 46, None, MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+16, 217, 20493, astar, 6.54, 733, 42, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+16, 217, 20493, custom-astar, 8.62, 765, 42, None, MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_TurnCW_MoveF_MoveF_TurnCCW_MoveF_MoveF_MoveF_TurnCW_MoveF_TurnCCW_MoveF_TurnCW_MoveF
+16, 217, 2881141419, bfs, 13.54, 880, 0, None, 
+16, 217, 2881141419, ucs, 8.84, 880, 0, None, 
+16, 217, 2881141419, gbfs, 10.43, 880, 0, None, 
+16, 217, 2881141419, astar, 15.37, 880, 0, None, 
+16, 217, 2881141419, custom-astar, 14.51, 880, 0, None, 

@@ -1,0 +1,8 @@
+prefix=/home/andersonjwan/catkin_ws/install
+
+Name: hw1
+Description: Description of hw1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
